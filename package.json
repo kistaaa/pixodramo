@@ -1,0 +1,22 @@
+{
+  "name": "pixodramo",
+  "version": "1.0.0",
+  "description": "area de pixacao",
+    "engines": {
+    "node": "6.11.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "kist",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.15.3",
+    "serve-static": "^1.12.3",
+    "socket.io": "^2.0.3"
+  }
+}
